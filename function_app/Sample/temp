@@ -1,0 +1,1 @@
+{"downstream_app":"downstream_app_1", "source_id":"app1", "items": [{"status":"active","user_id":"accept", "product_name":"Neo"},{"status":"inactive","user_id":"reject", "product_name":"Smith"}]}
